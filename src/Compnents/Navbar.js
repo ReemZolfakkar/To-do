@@ -26,7 +26,7 @@ function Navbar({ mode, setMode }) {
                     onChange={handleChange}
                   />
                 }
-                label={mode ? "Light Mood" : "Dark Mood"}
+                label={mode ? "Light mode" : "Dark mode"}
               />
             </FormGroup>
           </Typography>
